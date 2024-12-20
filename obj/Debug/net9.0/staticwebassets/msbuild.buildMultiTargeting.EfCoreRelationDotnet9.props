@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EfCoreRelationDotnet9.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EfCoreRelationDotnet9.props" />
+</Project>

@@ -1,0 +1,6 @@
+@EfCoreRelationDotnet9_HostAddress = http://localhost:5228
+
+GET {{EfCoreRelationDotnet9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
